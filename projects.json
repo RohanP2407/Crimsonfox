@@ -1,0 +1,44 @@
+[
+  {
+    "category": "Automobiles",
+    "description": "Dynamic automotive storytelling highlighting speed, design, and precision.",
+    "projects": [
+      { "url": "https://www.instagram.com/reel/DWB2-yQjP-O/" },
+      { "url": "https://www.instagram.com/reel/DThd_-fDQfm/" },
+      { "url": "https://www.instagram.com/reel/DP0QBcBk-vz/" },
+      { "url": "https://www.instagram.com/reel/DJLSjQJtHQv/" }
+    ]
+  },
+  {
+    "category": "Food Industry",
+    "description": "Cinematic visuals that capture the essence of taste and luxury.",
+    "projects": [
+      { "url": "https://www.instagram.com/reel/DMErJL3qJvX/" },
+      { "url": "https://www.instagram.com/reel/DW37K8MDDgv/" },
+      { "url": "https://www.instagram.com/reel/DVqi6zgjJug/" }
+    ]
+  },
+  {
+    "category": "Fashion",
+    "description": "High-fashion cinematography blending rhythm, style, and artistic expression.",
+    "projects": [
+      { "url": "https://www.instagram.com/reel/DV-xzvDAsIw/" },
+      { "url": "https://www.instagram.com/reel/DRcZy-6jb-8/" },
+      { "url": "https://www.instagram.com/reel/DNas7a4SWRW/" },
+      { "url": "https://www.instagram.com/reel/DOS17-DgZm3/" }
+    ]
+  },
+  {
+    "category": "Commercial Industry",
+    "description": "Compelling brand narratives that resonate with audiences and drive results.",
+    "projects": [
+      { "url": "https://www.instagram.com/reel/DImPMHZyKcO/" },
+      { "url": "https://www.instagram.com/reel/DTZuKOViB3d/" }
+    ]
+  },
+  {
+    "category": "Real Estate",
+    "description": "Architectural storytelling that showcases luxury, space, and lifestyle.",
+    "projects": [{ "url": "https://www.instagram.com/reel/DVGUDR-DFBV/" }]
+  }
+]
